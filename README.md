@@ -1,5 +1,4 @@
 # ola
-## Pensabas de mora > toda la carrera de Lit Killah (incluyendo su etapa d freestyler)
 
 
 
