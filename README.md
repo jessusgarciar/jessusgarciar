@@ -1,7 +1,7 @@
 # ola
-                                                       
+<center>
 ![](https://github.com/jessusgarciar/perro/blob/main/perro.gif)
-
+</center>
 
 <!---
 jessusgarciar/jessusgarciar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
